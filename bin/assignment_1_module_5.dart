@@ -1,4 +1,7 @@
 
+// Siful Islam Forhad
+// assignment_1_module_5
+
 
 abstract class Role {
   void displayRole();
@@ -65,10 +68,6 @@ class Student extends Person {
 
 
 
-
-
-
-
 //=============================================================================   4
 class Teacher extends Person {
   String teacherID;
@@ -99,11 +98,6 @@ class Teacher extends Person {
   }
 }
 //=============================================================================
-
-
-
-
-
 
 
 
