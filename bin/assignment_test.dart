@@ -100,7 +100,7 @@ class Teacher extends Person{
 
 
 void main(){
-  print("");
+  print("Hello");
 
   List<double> score = [99, 98, 78, 88, 90];
   Student student = Student('Farhan', 3, 'Home', '0887', 'A+', score);
